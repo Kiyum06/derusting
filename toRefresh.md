@@ -4,4 +4,5 @@ As you work through this exercise, write down anything that you needed to look u
 
 - remembering for-each loop,
 map & hashmap,
-
+toString,
+HashSet,
